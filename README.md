@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer<br>👯 I’m looking to collaborate on WebDev Projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Web Development, DSA, Problem Solving<br>⚡ Fun fact running projects on localhost is not fun
+🔭 I’m currently working as a Freelancer<br>👯 I’m looking to collaborate on WebDev Projects<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web Development, DSA, Problem Solving<br>⚡ Fun fact running projects on localhost is not fun
 
 
 ## 🌐 Socials:
